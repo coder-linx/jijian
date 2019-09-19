@@ -1,2 +1,5 @@
-# jijian
-jijian.link的仓库地址
+# 极简网
+http://www.jijian.link 的仓库地址
+
+## 说明
+本仓库暂不开源网站代码，仅用于用户提issue新增网址使用。项目是否开源根容以后考虑。
