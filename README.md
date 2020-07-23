@@ -1,5 +1,5 @@
 # 极简网
-* http://www.jijian.link 专属程序员的导航地址。  
+* http://www.jijian.link 专属前端程序员的导航地址。  
 中英文API搜索，各大搜索平台聚合搜索，一键搜索谷歌，bing，百度，GitHub，npm等。
 
 ## 说明
